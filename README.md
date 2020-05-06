@@ -1,4 +1,4 @@
-# Websites-Practice
+# Webpages-Practice
 
 Practicing website creating using html, css and javascript. Projects included are part of Freecodecamp's [Responsive Web Design Course](https://www.freecodecamp.org/learn/).
 
